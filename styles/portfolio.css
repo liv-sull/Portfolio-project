@@ -79,8 +79,8 @@ p {
   .hero {
     padding: 80px 10px;
   }
-}
-.project-description {
-  padding: 0;
-  text-align: center;
+  .project-description {
+    padding: 0;
+    text-align: center;
+  }
 }
